@@ -1,0 +1,32 @@
+
+
+ body {
+        height: 100%;
+    
+    background-image: url("images/iron_man.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    background-attachment: fixed; 
+    
+    }
+ 
+.hq{ float: left; margin-left: 3%; color: white; }
+.hq3{ float: right; margin-right: 4%; text-decoration: none;} 
+.hq2{ float: right; margin-right: 4%; text-decoration: none;}
+.hq1{ float: right; margin-right: 4%; text-decoration: none;}
+
+
+
+
+a:visited {
+    text-decoration: none;
+  }
+  a {
+    color: white;
+  }
+  
+  a:hover {
+    color: darkgreen;
+  
+  }
